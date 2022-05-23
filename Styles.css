@@ -1,0 +1,66 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.head{
+    background-color: #21a67a;
+    padding-bottom: 150px;
+    margin-right: -10px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+#logopic {
+    margin-left: 150px; 
+    padding-top: 30px;
+}
+#logo {
+    color: white;
+    margin-top: -40px;
+    margin-left: 210px;
+    font-size: 9px;
+    font-weight: 500;
+}
+#main {
+    padding-top: 100px;
+    margin-top: -135px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+}
+div.info{
+    box-shadow: 2px 5px 50px #777;
+    border-radius: 5px;
+
+}
+body{
+    background-color: rgb(216, 213, 213);
+}
+p {
+    margin-top: -130px;
+    padding-top: 80px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 50;
+    color:black;
+}
+ol {
+    padding-top: 50px;
+    margin-left: 50px;
+    font-size: 18px;
+    color: black;
+    background-color: ;
+}
+#barcode {
+    margin-top: -250px;
+    margin-left: 630px;
+}
+#help {
+    color: lightgreen;
+    margin-left: 80px;
+    font-size: 15px;
+    margin-top: 15px;
+}
+#video {
+    margin-left: 200px;
+    margin-top: 120px;
+    padding-bottom: 100px;
+}
